@@ -1,0 +1,22 @@
+ul *{
+    display:inline-block;
+    margin-right: 50px;
+    padding-left:130px ;
+}
+
+
+.img{
+    
+    display: inline;
+    position: relative;
+}
+
+.hide{
+    display:none;
+    position: absolute;
+    top: -1000%;
+    left: 35%;
+    
+}
+
+
